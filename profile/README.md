@@ -36,6 +36,32 @@ We build intelligent, AI-powered solutions that help businesses automate workflo
 
 ---
 
+<h2 align="center">🚀 Featured Project</h2>
+
+<div align="center">
+
+### 🤖 AI WhatsApp Customer Service Bot
+
+An AI-powered customer support assistant designed to combine WhatsApp messaging, intelligent responses, and human handoff workflows.
+
+<a href="https://github.com/KaalexTec/AI-WhatsApp-Customer-Service-Bot">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-39FF14?style=for-the-badge&logo=github&logoColor=black" alt="View Project" />
+</a>
+
+</div>
+
+**Planned capabilities**
+
+- AI-powered responses based on approved company knowledge
+- Human handoff and conversation ownership controls
+- Employee inbox for managing customer conversations
+- WhatsApp Cloud API integration
+- Docker-based deployment
+
+<sub>Project status: Specification and implementation planning. Features have not yet been verified as implemented.</sub>
+
+---
+
 <h2 align="center">⚡ Our Technology Stack</h2>
 
 <p align="center">
