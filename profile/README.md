@@ -26,6 +26,18 @@
 
 We build intelligent, AI-powered solutions that help businesses automate workflows, enhance customer experiences, and solve real-world challenges through technology.
 
+<h2 align="center">⚡ Our Technology Stack</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/AI%20%2F%20ML-111111?style=for-the-badge&logo=openai&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=39FF14" />
+</p>
+
+
 ## 💡 What We Focus On
 
 - Artificial Intelligence & Machine Learning
@@ -39,7 +51,24 @@ We work with modern technologies to build practical, scalable solutions. Explore
 
 ---
 
+
 <div align="center">
+
+<h2 align="center">📊 GitHub Activity</h2>
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=KaalexTec&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github"
+    alt="KaalexTec GitHub Stats"
+    width="49%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaalexTec&layout=compact&theme=chartreuse-dark&hide_border=true"
+    alt="KaalexTec Top Languages"
+    width="49%"
+  />
+</div>
+
 
 ### 🌱 Innovation starts with an idea.
 
