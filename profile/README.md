@@ -1,22 +1,23 @@
+
 <div align="center">
   <img src="./kaalextec-banner.png" alt="KaalexTec — Think Smart. Build Different." width="100%" />
 </div>
 
 <br/>
+
 <div align="center">
 
-# 🟢 KAALEX
-<div align="center">
+# 🟢 KAALEXTEC
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Welcome+to+KaalexTec;Building+the+Future+with+AI;Think+Smart.+Build+Different." alt="KaalexTec typing animation" />
-
-</div>
 
 ### BUILDING INTELLIGENCE. ENGINEERING THE FUTURE.
 
 **Building intelligent AI-powered solutions for smarter businesses and better digital experiences.**
 
-[Explore Our Projects](https://github.com/KaalexTec?tab=repositories)
+<a href="https://github.com/KaalexTec?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-Our_Projects-39FF14?style=for-the-badge&logo=github&logoColor=black" alt="Explore Our Projects" />
+</a>
 
 </div>
 
@@ -26,18 +27,12 @@
 
 We build intelligent, AI-powered solutions that help businesses automate workflows, enhance customer experiences, and solve real-world challenges through technology.
 
-
-
 ## 💡 What We Focus On
 
 - Artificial Intelligence & Machine Learning
 - Intelligent Automation
 - AI-Powered Customer Experiences
 - Modern Software Development
-
-## 🛠️ Technology & Innovation
-
-We work with modern technologies to build practical, scalable solutions. Explore our repositories to discover our projects and the tools behind them.
 
 ---
 
@@ -52,10 +47,8 @@ We work with modern technologies to build practical, scalable solutions. Explore
   <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub" />
 </p>
 
+---
 
-### 🌱 Innovation starts with an idea.
-
-**KAALEX — Think Smart. Build Different.**
 <h2 align="center">📊 GitHub Activity</h2>
 
 <p align="center">
@@ -67,9 +60,22 @@ We work with modern technologies to build practical, scalable solutions. Explore
   </a>
 </p>
 
-</div>
+---
+
+<h2 align="center">🐍 Our Contribution Activity</h2>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/KaalexTec/.github/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" width="100%" />
 </div>
 
+---
+
+<div align="center">
+
+### 🌱 Innovation starts with an idea.
+
+**KAALEXTEC — THINK SMART. BUILD DIFFERENT.**
+
+<a href="https://github.com/KaalexTec?tab=repositories">Explore our repositories →</a>
+
+</div>
