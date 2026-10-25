@@ -42,3 +42,8 @@ We work with modern technologies to build practical, scalable solutions. Explore
 **KAALEX — Think Smart. Build Different.**
 
 </div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/KaalexTec/.github/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" width="100%" />
+</div>
+
