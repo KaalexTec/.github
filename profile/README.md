@@ -1,4 +1,8 @@
+<div align="center">
+  <img src="./kaalextec-banner.png" alt="KaalexTec — Think Smart. Build Different." width="100%" />
+</div>
 
+<br/>
 <div align="center">
 
 # 🟢 KAALEX
