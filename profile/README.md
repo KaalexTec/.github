@@ -2,6 +2,11 @@
 <div align="center">
 
 # 🟢 KAALEX
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Welcome+to+KaalexTec;Building+the+Future+with+AI;Think+Smart.+Build+Different." alt="KaalexTec typing animation" />
+
+</div>
 
 ### BUILDING INTELLIGENCE. ENGINEERING THE FUTURE.
 
